@@ -3,7 +3,7 @@ def mock_chatgpt(prompts):
 prompts = ["what is your name", "what are you trying to get",
      "what is you goel","what is the next step",
      "my final step"]
-with open("chat_log1.txt","x",encoding="utf-8") as log_file:
+with open("chat_log1.txt","a",encoding="utf-8") as log_file:
     for i , prompt in enumerate(prompts):
         print(f"prompt {i+1}: {prompt}")
         response = mock_chatgpt(prompts)

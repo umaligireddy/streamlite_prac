@@ -1,0 +1,17 @@
+[
+    {
+        "user": "umesh",
+        "prompt": "what is python",
+        "response": "it is a programming language."
+    },
+    {
+        "user": "akhil",
+        "prompt": "what is chatgpt",
+        "response": "it is an artefical intaligence."
+    },
+    {
+        "user": "lokesh",
+        "prompt": "what is linex",
+        "response": "it is a virtual meachine language."
+    }
+]

@@ -1,0 +1,10 @@
+{
+    "template": "write a professional summary for someone who is a {profession} with {year} years of experience",
+    "filled_prompt": "write a professional summary for someone who is a java with 5 years of experience",
+    "response": "Experienced Java developer with over 5 years of professional experience in software development. Skilled in designing, developing, and implementing complex applications using Java technologies. Proficient in coding, testing, and debugging software solutions to ensure optimal functionality and performance. Strong problem-solving abilities and a proven track record of delivering high-quality projects on time and within budget. Excellent communication and team collaboration skills. Looking to leverage my expertise in Java development to contribute to a dynamic and innovative software team."
+}
+{
+    "template": "write a professional summary for someone who is a {profession} with {year} years of experience",
+    "filled_prompt": "write a professional summary for someone who is a prompt engineering with 2.5 years of experience",
+    "response": "Results-driven and detail-oriented prompt engineering professional with 2.5 years of experience in developing and implementing prompt solutions for various projects. Proficient in conducting thorough analyses to identify and resolve issues quickly and efficiently. Strong knowledge of engineering principles and practices, coupled with exceptional problem-solving skills. Adept at collaborating with cross-functional teams to deliver high-quality results within deadline constraints. Looking to leverage expertise in prompt engineering to drive efficiency and innovation in a dynamic work environment."
+}

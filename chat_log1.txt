@@ -1,0 +1,10 @@
+prompt 1:what is your name
+response: this is a fake prompt answer
+prompt 2:what are you trying to get
+response: this is a fake prompt answer
+prompt 3:what is you goel
+response: this is a fake prompt answer
+prompt 4:what is the next step
+response: this is a fake prompt answer
+prompt 5:my final step
+response: this is a fake prompt answer

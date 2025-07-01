@@ -1,0 +1,10 @@
+{
+    "template": "Write a professional summary for someone who is a {profession} with {year} years of experience.",
+    "prompt": "Write a professional summary for someone who is a prompt engineer with 1 years of experience.",
+    "response": "Results-oriented and detail-driven prompt engineer with 1 years of experience in developing and implementing prompt solutions for various technical challenges. Possess a strong background in analyzing prompt requirements, designing prompt architectures, and troubleshooting prompt issues to ensure optimal functionality. Proven track record of successfully delivering high-quality prompt services to meet client needs and exceed expectations. Adept at collaborating with cross-functional teams to drive prompt projects to successful completion. Looking to leverage my prompt engineering expertise to contribute to a dynamic and innovative organization."
+}
+{
+    "template": "Write a 5-line poem for a kid named {name} about {topic}.",
+    "prompt": "Write a 5-line poem for a kid named mahira about mom.",
+    "response": "Mahira's mom is kind and sweet,\nHer love for her child can't be beat.\nShe tucks her in at night with care,\nAnd always shows how much she cares.\nMahira is lucky to have a mom so rare."
+}

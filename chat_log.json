@@ -1,0 +1,17 @@
+[
+    {
+        "user": "umesh",
+        "prompt": "reddy",
+        "response": "it is a fake answer."
+    },
+    {
+        "user": "umesh",
+        "prompt": "what is python",
+        "response": "it is a fake answer."
+    },
+    {
+        "user": "umesh",
+        "prompt": "what is it",
+        "response": "it is a fake answer."
+    }
+]

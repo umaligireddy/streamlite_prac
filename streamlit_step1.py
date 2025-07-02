@@ -1,7 +1,7 @@
 import streamlit as st
-st.title("Expander")
+st.title("Richard Taylor's streamlit app")
 with st.expander("click to see more"):
-    st.write("here you can see the hidden content inside the expander")
+    st.write("hay reachard taylor this is your first streamlit app")
     st.image("https://static.streamlit.io/examples/cat.jpg", width=150)
 st.subheader("this is columns example")
 col1,col2= st.columns(2)

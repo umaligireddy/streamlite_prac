@@ -19,7 +19,7 @@ if uploaded_file is not None:
     else:
         st.warning("no numeric column is selected to plot")
     csv=df[[selected_column]].to_csv(index=False).encode("utf-8")
-    st.downlosd_button(
+    st.download_button(
             label="download selected column as csv",
             data=csv,
             file_name=f"{selected_column}.csv",

@@ -20,3 +20,10 @@ if uploaded_file is not None:
         st.warning("no numeric column is selected to plot")
 else:
     st.warning("please upload a cvs file")
+csv=df[selected_column].to_csv(index=False).encode("utf-8")
+st.downlosd_button(
+    lable="download selected column as csv",
+    data=csv,
+    file_name=f"{selected_column}.csv",
+    mime="text/csv"
+    )
